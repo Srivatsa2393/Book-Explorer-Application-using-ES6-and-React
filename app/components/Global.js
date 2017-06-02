@@ -15,7 +15,7 @@ class Global extends React.Component{
 
   render() {
     return(
-      <div>
+      <div className="Global">
         <h1>Book Explorer!</h1>
         <FormGroup>
           <InputGroup>
